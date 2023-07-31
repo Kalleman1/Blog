@@ -1,0 +1,8 @@
+.BlogPostDiv {
+    background-color: white;
+    border-radius: 12px;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+}

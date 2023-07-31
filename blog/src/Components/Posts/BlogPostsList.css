@@ -1,0 +1,11 @@
+.BlogPostsList{
+    margin: 20px;
+    border: 1px solid #000;
+    padding: 30px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 20px;
+    width: 750px;
+}
